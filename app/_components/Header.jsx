@@ -65,7 +65,7 @@ function Header() {
 
           :  
 
-          <Button onClick={()=>signIn('descope')}>Login / Sign Up</Button>
+          <Button onClick={()=>signIn('descope')}>Get started</Button>
 
         }
             </div>
